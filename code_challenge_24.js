@@ -1,3 +1,4 @@
+// this fcc challenge problem 
 function tooMuchScreenTime(hours) {
   // 1. Any single day has 10 or more hours
   if (hours.some(h => h >= 10)) {
